@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-//
-//
-//
-//
+//We create a variable called secret with nothing assigned to it and a variable called code and assign it the value 123 (one-hundred and twenty-three).
+//We make an if statement where code is equal to the number 123. Within the If statement we set variable secret to the string 'super' and variable code to code x 2.
+//In the If statement we set code to 123 so it is 123 (code) x 2. We make another If statement where we set code to be greater than a value of 250. If code does have a value of
+//greater than 250, then variable super will equal the string 'duper' instead of 'super'. 123 x 2 = 246. So secret will equal 'super'. The console will print 'super'.
 
 //CODE
 /*
@@ -70,11 +70,12 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-//
-//
-//
-//
-
+//We create three variables: isStudent, age, and zip. isStudent is set to the boolean value true. age is set to a value of 34, and zip is set to the number 55407.
+//We make an If statement where isStudent is equal and zip is greater than 80000. This means that both variables must fall within both values in order for the console to
+//print `You're a student on the West Coast`. Next we make an else if where isStudentis qual to boolean false or age is less than 30. This means that if isStudentis false OR age
+//is less than 30 than the console will print 'What are your hobbies?'. Another else if following, if none of the previous variables meet their conditions and isStudent equals true,
+//then the console will print 'Welcome to Prime!'. The final statement in the chain is an else. Meaning if none of the previous variables above meet their conditions, then the
+//console will print 'How about the weather?'.
 //CODE
 /*
 let isStudent = true;
@@ -130,8 +131,8 @@ if (number >= 2) {
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
 /*
-let colorOne = 'red';
-let colorTwo = 'blue';
+let colorOne = 'blue';
+let colorTwo = 'red';
 let mix = true;
 
 if (mix === true) {
